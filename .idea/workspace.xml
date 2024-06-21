@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a39a94-d01a-4df0-b2e8-f8059fa9db3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nexus-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nexus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/nexus-project/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/nexus-project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/nexus-project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/nexus-project/.idea/nexus-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/nexus-project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/nexus-project/Nexus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/nexus-project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nexus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Nexus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nexus-project/Nexus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nexus-project/Nexus.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718904593557</updated>
-      <workItem from="1718904594652" duration="4044000" />
+      <workItem from="1718904594652" duration="5385000" />
     </task>
     <servers />
   </component>
